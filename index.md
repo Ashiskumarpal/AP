@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-<hr size="1" color="#0000ff">
+<hr size="1.5" color="#1c90ba">
 I am a Ph.D. student at Northeastern University
 
 ## Research Interests
