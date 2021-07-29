@@ -28,6 +28,64 @@ Cumulative GPA – 3.32/4.00
 **Related Courses:** Operations Research,Probability and Statistics, Manufacturing Process-I and II,Supply
 Chain Management,Operations Management,Product Design,Computer Integrated Manufacturing
 
+
+## Online Courses
+**edX : UChicagoX: Modeling Climate Change** April 2021-Present
+- Course Facilitator : Professor David Archer
+**edX : HarvardX: Using Python for Research** Nov 2018-Dec 2018
+- Course Facilitator : Professor Jukka-Pekka Onnela
+**edX : TUMX: Lean Production** Sep 2018-Nov 2018
+- Course Facilitator : Professor Holly ott
+
+
+## Projects
+**Network Infrastructure under Compound Extremes.[NICE]** May 2021-Present
+- Funded by US Department of Defense(DoD).This hypothesis-guided research will lead to novel frameworks and
+models for improving the science of resilience with an ultimate, long-term view of providing actionable insights for
+ensuring DoD’s readiness to unknown and possibly unknowable compounding risks.
+**Compound flooding impact on lifeline infrastructure network.** Fall 2021-Present
+- Understanding of resilience(robustness and recovery) of lifeline infrastructures specifically mass transit railway
+network in greater Boston area examined under compound flooding(coastal flooding and sea level rise).
+**Characterization and delineation of multi model ensembles and multiple initial model ensemble based on complex network analysis.**
+Fall 2021-Present
+- Distinguishing between multiple model ensembles and multiple initial model ensemble and their dynamics using
+complex network.Exploring geo-clusters,spatial patterns predictive insights,climate dynamics using CMIP6 output
+data.
+**Improving resilience of lifeline infrastructures with network topology and dynamics.**
+Fall 2021-Present
+- Analysing infrastructure network(New York MTA network) topology and dynamics(flows of physical quantities in
+the network) to assess robustness.
+
+## Skills
+- Programming Languages –Python,MATLAB,C.
+- ArcGIS.
+- Gephi(Network analysis and visualization).
+## Awards
+- Vilas Mujumdar Strategic Resilience Fund Fellowship award at Northeastern university.
+- Technical Scholarship, BUET, during each sessions 2011-2015.
+- 2nd Runners Up at Divisional Math Olympiad Bangladesh in 2011.
+- Full Funded MSc Scholarship Under Stipendium Hungaricum 2019/2020.
+
+## Experience
+**Manager,Production** Dhaka,BD
+Twice Polybag and Thread Industry Ltd. July 2019-Sep 2020
+Sewing thread production
+- Concentration: Production of industrial sewing thread, capacity analysis, maintenance, inventory management,
+lean manufacturing, dyes chemical sourcing.
+**Master Production Scheduler** Dhaka,BD
+Partex Star Group Dec 2018-Jun 2019
+Supply chain management
+- Concentration: Demand forecasting,production scheduling,inventory management,supply and operations
+planning execution.
+**Executive,Production Planning and Coordination** Dhaka,BD
+Fakir Apparels Ltd. Mar 2017-Sep 2018
+- Concentration: Production planning,capacity analysis,lean Manufacturing,co-ordination and plan execution,
+waste reduction.
+**Internship** Dhaka,BD
+BBS Cables Ltd. Feb 2016-Mar 2016
+- Concentration: Layout design,time and motion study,cable production,quality control of cable manufacturing
+
+
 ## News
 
 - **[Feb. 2020]** Our paper about incremental learning is accepted to [CVPR 2020](http://cvpr2020.thecvf.com/).
