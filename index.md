@@ -4,12 +4,29 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Ph.D. student at Northeastern University
 
 ## Research Interests
 
 - **Computer Vision:** image recognition, image generation, video captioning
 - **Machine Learning:** meta-learning, incremental learning, transfer learning
+
+## Education
+Northeastern University Boston,MA
+**Interdisciplinary PhD** Sep 2020-Present
+Cumulative GPA – **3.83/4.00**
+Supervisor: Professor Auroop R. Ganguly.
+**Courses:**
+- Time Series and GeoSpatial Data Sciences.
+- Climate Science,Engineering Adaptation, and Policy.
+- Critical Infrastructure Resilience.
+- Complex Networks.
+
+Bangladesh University of Engineering and Technology(BUET) Dhaka,BD
+**Industrial and Production Engineering** May 2012-Feb 2017
+Cumulative GPA – 3.32/4.00
+**Related Courses:** Operations Research,Probability and Statistics, Manufacturing Process-I and II,Supply
+Chain Management,Operations Management,Product Design,Computer Integrated Manufacturing
 
 ## News
 
