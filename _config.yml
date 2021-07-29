@@ -8,8 +8,8 @@ github_link: https://github.com/yaoyao-liu/minimal-light
 linkedin: https://www.linkedin.com/in/ashis-pal-ipe
 avatar: ./assets/img/Ashis.JPG
 google_analytics: UA-111540567-4
-favicon: ./assets/img/Favicon2.png
-favicon_dark: ./assets/img/Favicon3.png
+favicon: ./assets/img/Favicon_2.png
+favicon_dark: ./assets/img/Favicon_2.png
 description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
 canonical: https://ashiskumarpal.github.io/AP/
 remote_theme: yaoyao-liu/minimal-light
